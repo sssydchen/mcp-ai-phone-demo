@@ -9,5 +9,5 @@ mcp-ai-phone-demo/
 │  └─ app.py
 ├─ tests/
 │  └─ test_mcp_contract.py
-└─ README.md  (可选)
+└─ README.md 
 ```
